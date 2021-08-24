@@ -18,7 +18,7 @@
 ; System Requirements: A modern computer with linux, and an x86 processor
 ; Program title: Biggest Integer Finder 
 ; Program Description: This program receives a sequence of integers, then puts them into an array
-;   Then the program prints out the array, then prints out the array. Afterwards, the program finds
+;   Then the program prints out the array. Afterwards, the program finds
 ;   the biggest number in the array and its index, then tells us what they are.
 ; 
 ; FILES: main.c 
